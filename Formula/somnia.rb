@@ -1,8 +1,8 @@
 class Somnia < Formula
   desc "Type-safe SurrealDB ORM for Rust — diesel-style migration CLI"
   homepage "https://github.com/vbasky/somnia"
-  url "https://github.com/vbasky/somnia/archive/refs/tags/v0.4.1.tar.gz"
-  sha256 "5a77cf86a2bbc33e3b9926cce9b7b683787750b64c160885cb94ac23a94a22c8"
+  url "https://github.com/vbasky/somnia/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "25465504cc1c19a2457ce687cf59560d1eea3054bca36f252ee9c0c8280e9a66"
   license "Apache-2.0"
 
   depends_on "rust" => :build
